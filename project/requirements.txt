@@ -1,0 +1,24 @@
+# Used by pip to install required python packages
+# Usage: pip install -r requirements.txt
+
+numpy==1.19.0
+pandas==1.0.5
+scipy==1.5.1
+tensorflow==2.3.0rc2
+scikit-learn==0.23.1
+scikit-image==0.17.2
+argparse==1.4.0
+opencv-python==4.3.0.36
+opencv-contrib-python==4.3.0.36
+cython==3.0a5
+boost==0.1
+boost-py==0.0.2
+cmake==3.18.0
+dlib==19.20.0
+pickleshare==0.7.5
+Pillow==7.2.0
+imutils==0.5.3
+yagmail==0.11.224
+selenium==4.0.0a5.post2
+geopy==2.0.0
+
